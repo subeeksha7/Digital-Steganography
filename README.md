@@ -1,1 +1,1 @@
-# Digital-Steganography
+# DigitalSteganographyProject
